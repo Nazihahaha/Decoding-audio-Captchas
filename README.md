@@ -1,6 +1,10 @@
 # Audio CAPTCHA Decoding using Whisper
 This project utilizes OpenAI's Whisper model to transcribe audio CAPTCHA files and evaluate the accuracy of the transcriptions against a reference dataset. The evaluation is based on Character Error Rate (CER) and word-level accuracy.
 
+DATASET LINK FOR AUDIO CAPTCHAS: https://shorturl.at/Ck9jI
+
+DATASET LINK FOR CORRESPONDING IMAGE CAPTCHA FILE: https://shorturl.at/SodhZ
+
 1. Install Required Dependencies:
 Ensure you have Python installed. Then, install the required Python libraries:
 
