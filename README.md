@@ -20,7 +20,7 @@ pip install git+https://github.com/openai/whisper.git
 
 sudo apt update && sudo apt install ffmpeg
 
-High-Level Overview of the Approach
+**High-Level Overview of the Approach**
 Audio Processing:
 
 The script loads .wav audio files from the specified directory.
